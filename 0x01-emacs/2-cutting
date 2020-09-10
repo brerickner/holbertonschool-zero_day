@@ -1,1 +1,1 @@
-C-a C-SPC C-e M-w
+(kill-ring-save [Alt+w]) 
